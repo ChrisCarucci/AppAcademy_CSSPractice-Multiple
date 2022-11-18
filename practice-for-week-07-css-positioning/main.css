@@ -1,0 +1,78 @@
+html, body {
+    font-family: sans-serif;
+}
+
+.container {
+    background-color: #2b2d2f;
+    position: relative;
+}
+
+.element {
+    box-sizing: border-box;
+    display: inline-block;
+    width: 100px;
+    height: 280px;
+    font-size: 36px;
+}
+
+#yellow-box {
+    background-color: #ffff00;
+
+    position: absolute;
+    bottom: 0;
+    left: 10px;
+    right: 0;
+    top: 0;
+    z-index: 4;
+    height: 350px;
+    top: 200px;
+}
+
+#pink-box {
+    background-color: #ff69b4;
+    position: absolute;
+    bottom: 0;
+    left: 10px;
+    right: 0;
+    top: 0;
+    z-index: 5;
+    height: 300px;
+    top: 245px;
+}
+
+#blue-box {
+    background-color: #00eeee;
+    position: absolute;
+    bottom: 0;
+    left: 10px;
+    right: 0;
+    top: 0;
+    z-index: 1;
+    height: 550px;
+    bottom: 10px;
+}
+
+#red-box {
+    background-color: #ff0000;
+    position: absolute;
+    bottom: 0;
+    left: 10px;
+    right: 0;
+    top: 0;
+    z-index: 3;
+    height: 400px;
+    width: 100px;
+    top: 150px;
+}
+
+#orange-box {
+    background-color: #ffa500;
+    position: absolute;
+    bottom: 0;
+    left: 10px;
+    right: 0;
+    top: 0;
+    z-index: 2;
+    height: 500px;
+    top: 100px;
+}

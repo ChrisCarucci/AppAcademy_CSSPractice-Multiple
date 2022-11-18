@@ -1,0 +1,81 @@
+html, body {
+    /* DO NOT EDIT */
+    font-family: sans-serif;
+}
+
+/* Phase 1 */
+
+#logo {
+    /* DO NOT EDIT */
+
+    /* Your code here */
+    vertical-align: bottom;
+    height: 60px;
+    width: 60px;
+    display: inline-block;
+    margin: auto;
+    margin-left: 40%;
+}
+
+
+h1 {
+    /* Your code here */
+    display: inline-block;
+    height: 30px;
+    padding-left: 10px;
+
+
+}
+
+/* Phase 2 */
+
+.box {
+    /* DO NOT EDIT */
+    vertical-align: top;
+    border: dotted black 4px;
+    background-color: lightyellow;
+    width: 120px;
+    height: 120px;
+    padding: 20px;
+    display: inline-block;
+    margin-left: 45%;
+    padding-top: 10px;
+}
+
+.alternate {
+    /* Your code here */
+    display: inline-block;
+    padding-bottom: 1px;
+    margin-bottom: 1px;
+
+
+}
+
+/* Phase 3 */
+
+.footer {
+    /* DO NOT EDIT */
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+.quote {
+    /* DO NOT EDIT */
+    background-color: lightgray;
+    font-size: larger;
+    width: 650px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    
+
+
+}
+
+.attribution {
+    /* DO NOT EDIT */
+    font-style: italic;
+    display: block;
+
+}
